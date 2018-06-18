@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;ClassUtil.java&apos; to &apos;RouteServer/src/com.soon.util&apos;&#x0D;&#x0A;- Original project: &apos;Util&apos;&#x0D;&#x0A;- Destination element: &apos;RouteServer/src/com.soon.util&apos;&#x0D;&#x0A;- Original element: &apos;com.road.yishi.util.ClassUtil.java&apos;" description="Copy compilation unit" destination="=RouteServer/src&lt;com.soon.util" element1="/src&lt;com.road.yishi.util{ClassUtil.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1526728116590" units="1" version="1.0"/>
+</session>

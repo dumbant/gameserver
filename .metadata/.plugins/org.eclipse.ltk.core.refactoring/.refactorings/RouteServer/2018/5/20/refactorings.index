@@ -1,0 +1,48 @@
+1526726438224	Rename field 'codeId'
+1526727635367	Move compilation unit
+1526729390073	Rename method 'setCodeId'
+1526729609158	Rename local variable 'codeId'
+1526729665053	Move compilation units
+1526729805766	Move compilation units
+1526729839368	Move compilation units
+1526729863813	Move compilation units
+1526729956121	Move compilation units
+1526729988460	Move compilation units
+1526730012515	Move compilation units
+1526730029943	Move compilation units
+1526730047197	Delete element
+1526730108302	Move compilation unit
+1526730121689	Delete element
+1526730193121	Delete element
+1526730247347	Move compilation units
+1526730250935	Delete element
+1526732895853	Rename field 'maintenanceStartTime'
+1526732917334	Rename field 'maintenanceEndTime'
+1526732925353	Rename field 'stopStartTime'
+1526736822479	Move folder
+1526737253269	Rename resource 'bonecp-base.xml'
+1526737524901	Copy file
+1526738084940	Rename resource 'bonecp-base.properties'
+1526738143473	Copy file
+1526738181428	Delete element
+1526738196638	Copy file
+1526738234000	Copy file
+1526738266171	Delete element
+1526738272911	Delete element
+1526738279229	Delete element
+1526738322487	Move files
+1526738326684	Delete element
+1526743345826	Rename package 'com.soon.socket.protocol'
+1526743547835	Copy file
+1526743924404	Rename resource 'message.proto'
+1526743941845	Copy file
+1526744610219	Rename resource 'msgbattle.proto'
+1526744614821	Delete elements
+1526746456758	Delete element
+1526746702250	Move file
+1526746709566	Delete element
+1526749113929	Rename type 'User'
+1526749137485	Rename type 'UserMgr'
+1526752218400	Rename resource 'bonecp-strategy.properties'
+1526754525143	Copy compilation unit
+1526754841418	Rename type 'ServerConfigDao'

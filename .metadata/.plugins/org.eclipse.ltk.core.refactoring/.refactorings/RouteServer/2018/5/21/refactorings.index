@@ -1,0 +1,14 @@
+1526791863916	Rename type 'Protocol'
+1526791882636	Copy compilation unit
+1526791895070	Copy compilation unit
+1526791958890	Copy compilation unit
+1526791997157	Copy compilation unit
+1526792007078	Copy compilation unit
+1526792864351	Rename type 'Message'
+1526793281185	Rename method 'sendToUser'
+1526793443037	Rename method 'getOnlineUser'
+1526795885834	Rename package 'com.soon.socket.protocol'
+1526798389565	Rename field 'strategyServer'
+1526798407209	Rename method 'getStrategyServer'
+1526798603847	Rename type 'LoginMsg'
+1526798659742	Delete element

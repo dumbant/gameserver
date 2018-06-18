@@ -1,0 +1,54 @@
+1525602073904	Rename type 'ServerConnect'
+1525603437331	Rename resource 'global_config.xml'
+1525605014240	Rename field 'ip'
+1525608761930	Rename resource 'config.property'
+1525610911044	Rename type 'NetConfig'
+1525611095342	Rename field 'map'
+1525618813204	Rename type 'NetConfig'
+1525619163664	Move compilation units
+1525620879985	Rename type 'UpdateObject'
+1525621416474	Copy compilation unit
+1525621430514	Rename type 'ConfigInfo'
+1525624746065	Rename type 'BaseDao'
+1525624766180	Copy compilation unit
+1525624793232	Rename field 'DB_BASE'
+1525624859662	Copy compilation unit
+1525624883921	Copy compilation unit
+1525624950356	Rename type 'NetConfigDb'
+1525624973993	Rename type 'ServerConfigDb'
+1525626771286	Delete element
+1525626819874	Rename type 'ServerConfigInfo'
+1525627571190	Copy package
+1525627641961	Move compilation units
+1525627654401	Delete element
+1525789750045	Rename type 'IServer'
+1525789775119	Rename type 'Netty4ServerConnect'
+1525793749693	Rename type 'MessageBody'
+1525793763745	Rename type 'MsgObject'
+1525880680138	Rename type 'ServerHandler'
+1526129249165	Move compilation units
+1526129267278	Move compilation unit
+1526129276660	Move compilation unit
+1526129286419	Move compilation units
+1526129296362	Move compilation unit
+1526129299783	Delete element
+1526129464256	Rename type 'EchoClientHandler'
+1526134837637	Rename package 'com.soon.route.core'
+1526135005722	Rename package 'com.soon.route'
+1526135032574	Move compilation units
+1526135038068	Delete element
+1526135058971	Move compilation units
+1526135063065	Delete element
+1526135086565	Move compilation units
+1526135144442	Move compilation units
+1526135150404	Move compilation unit
+1526135154871	Delete element
+1526135170254	Move compilation units
+1526135176144	Delete element
+1526135303440	Rename type 'MsgObj'
+1526135455542	Move compilation unit
+1526136826580	Rename type 'Netty4ServerSocket'
+1526136849215	Rename type 'ClientConnect'
+1526136863879	Rename type 'ServerSocketHandler'
+1526140572248	Move compilation unit
+1526140613559	Rename type 'StartServer'

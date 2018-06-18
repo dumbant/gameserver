@@ -1,0 +1,40 @@
+option java_package="com.soon.socket.pb";
+option java_outer_classname="Message";
+
+message MessageEnum {
+	//1 - 4999
+	enum ClientMsg {
+		C_LoginGame = 1;
+		
+	}
+	
+	//5000 - 5999
+	enum StrategyMsg {
+		S_LoginGame = 5000;
+		
+	}
+	
+	//6000 - 6499
+	enum GlobalMsg {
+		G_LoginGame = 6000;
+		
+	}
+	
+	//6500 - 6999
+	enum RouteMsg {
+		R_LoginGame = 6500; 
+		
+	}
+	
+	//7000 - 7499
+	enum BattleMsg {
+		B_LoginGame = 7000; 
+		
+	}
+	
+	//7500 - 7999
+	enum CrossMsg {
+		CR_LoginGame = 7500; 
+		
+	}
+}

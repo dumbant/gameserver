@@ -1,0 +1,46 @@
+package com.soon;
+
+public class Test {
+
+	public static void main(String[] args) {
+		int k = 100;
+		int l = 100;
+		Integer i = 100;
+		Integer j = 100;
+		Integer m = new Integer(100);
+		Integer n = new Integer(100);
+		Integer a = Integer.valueOf(100);
+		Integer b = Integer.valueOf(100);
+		Integer c = Integer.valueOf("100");
+		Integer d = Integer.valueOf("100");
+		Integer e = Integer.parseInt("100");
+		Integer f = Integer.parseInt("100");
+		
+		System.out.println(i == j);		
+		System.out.println(i == k);		
+		System.out.println(i == m);		
+		System.out.println(i == a);
+		System.out.println(i == c);
+		System.out.println(i == e);
+		System.out.println("================");	
+		System.out.println(k == l);	
+		System.out.println(k == m);		
+		System.out.println(a == k);		
+		System.out.println(k == c);
+		System.out.println(k == e);	
+		System.out.println("================");	
+		System.out.println(m == n);
+		System.out.println(m == a);
+		System.out.println(m == c);
+		System.out.println(m == e);
+		System.out.println("================");	
+		System.out.println(b == a);
+		System.out.println(c == a);
+		System.out.println(e == a);
+		System.out.println("================");	
+		System.out.println(c == d);
+		System.out.println(c == e);
+		System.out.println("================");	
+		System.out.println(e == f);
+	}
+}
